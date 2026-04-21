@@ -1,0 +1,1 @@
+A full-stack mobile application built using Flutter and Express.js. Everej allows users to explore NFT items, view detailed information, and interact through a review system with full CRUD API integration.
